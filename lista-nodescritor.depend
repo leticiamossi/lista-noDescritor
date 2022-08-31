@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1655068384 source:c:\ws-codeblocks\estrutura de dados\lista-nodescritor\mensagens.c
+	<stdio.h>
+	<stdlib.h>
+	"ponte.h"
+
+1655070454 c:\ws-codeblocks\estrutura de dados\lista-nodescritor\ponte.h
+
+1655070602 source:c:\ws-codeblocks\estrutura de dados\lista-nodescritor\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	"ponte.h"
+
+1655070523 source:c:\ws-codeblocks\estrutura de dados\lista-nodescritor\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ponte.h"
+
